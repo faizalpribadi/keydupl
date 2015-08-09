@@ -1,6 +1,6 @@
 # keydupl [![Build Status](https://travis-ci.org/faizalpribadi/keydupl.svg?branch=master)](https://travis-ci.org/faizalpribadi/keydupl)
 
-> Transform the key into value an Object
+> Duplicate the key into value an Object
 
 
 ## Install
