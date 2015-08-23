@@ -1,4 +1,5 @@
-# keydupl [![Build Status](https://travis-ci.org/faizalpribadi/keydupl.svg?branch=master)](https://travis-ci.org/faizalpribadi/keydupl)
+# keydupl [![Build Status](https://travis-ci.org/faizalpribadi/keydupl.svg?branch=master)](https://travis-ci.org/faizalpribadi/keydupl) [![browser support](https://ci.testling.com/faizalpribadi/keydupl.png)
+](https://ci.testling.com/faizalpribadi/keydupl)
 
 > Duplicate the key into value an Object
 
